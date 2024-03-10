@@ -1,0 +1,2 @@
+Promises are just syntactical sugar or pretty way to
+ write code more readable.
